@@ -32,6 +32,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.github.redouane59.twitter</groupId>
+			<artifactId>twittered</artifactId>
+			<version>1.19</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
